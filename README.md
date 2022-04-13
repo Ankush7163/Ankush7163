@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankush7163
+- 👋 Hi, I’m Ankush Singh.
 - 👀 I’m interested in Coding and learning new skills.
 - 🌱 I’m currently learning C/C++. I've already learned HTML, CSS and basics of JavaScript.
 - 💞️ I’m looking to collaborate with different peoples on new projects that can solve social cause.
